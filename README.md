@@ -1,4 +1,4 @@
-## Henge No Jutsu
+## Henge No Jutsu Token Changer
 
 * Discord: feid#5550
 * Roll20: https://app.roll20.net/users/2581852/feid
