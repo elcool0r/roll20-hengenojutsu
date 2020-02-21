@@ -1,6 +1,3 @@
-// 1. create a rolltable with two images
-// 2. select the desired token
-// 3. !hengenojutsu [rolltable]
 on('ready', () => {
     on('chat:message', function (msg) {
         if (msg.type == "api" && msg.content.startsWith("!hengenojutsu")) {

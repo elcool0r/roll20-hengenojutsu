@@ -12,6 +12,6 @@ See it here in action:
 [https://imgur.com/a/tygImsB](https://imgur.com/a/tygImsB)
 
 ### Usage
- 1. Create a rollatable with two images 
+ 1. Create a rollable table with two images 
  2. Select the desired token
  3. !hengenojutsu [rollatable name]
